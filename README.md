@@ -4,7 +4,7 @@ Guadalajara, Jal., México
 Email: andrew.manza.moya@gmail.com | Tel: 3318738424
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Rasoutio&color=green" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=Rasoutio&color=green">
 <p/>
 
 ## Perfil Profesional
