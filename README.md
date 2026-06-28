@@ -30,9 +30,13 @@ Durante este proycto se utilizaron las librerías de Pandas, Numpy, Matplotlib y
 Como conclusión de este proyecto se pudo comprobar que el exito de las consolas en el mercado creciente y joven fué la cantidad de juegos que fueron lanzados destacando los generos como shooters, deportes y acción.
 
 Esta es una pequeña galería de lo que se hizo en este proyecto.
+
 <img width="1080" height="667" alt="image" src="https://github.com/user-attachments/assets/67f9ce93-f217-42c7-9e91-a9d779920083" />
+
 <img width="1103" height="662" alt="image" src="https://github.com/user-attachments/assets/022bde28-676f-4710-b65d-ec06f4b8e519" />
+
 <img width="1090" height="648" alt="image" src="https://github.com/user-attachments/assets/3b782b05-6579-4e02-b80c-f0e5e3900a1a" />
+
 <img width="953" height="538" alt="image" src="https://github.com/user-attachments/assets/9149de40-6dd9-4b95-92f5-3e0a93e2e1ef" />
 
 ### Proyecto 2: Automatización de documentos
@@ -47,9 +51,13 @@ Este priyecto usa librerias como Pandas, Numpy, Matlibplot y Docx.
 Como conclusión de este proyecto puedo rescatar que el tiempo de analisis y generación de reportes se redujo de 7 días a 2 días, siempre cuidando la veracidad de los datos, ya que al no esta usando excel e introducir las formulas de manera manual reducinos los errores; ademas, que al dejar de utilizar los macros rducimos el trabajo de IT ya que para poder usar estos macros se necesita autorización de manera periodica.
 
 Adjunto una pequeña galeria del código, siempre tratando de no comprometer información sensible.
+
 <img width="681" height="662" alt="image" src="https://github.com/user-attachments/assets/eab755f1-ed31-4dbd-a985-92209df3c31d" />
+
 <img width="720" height="653" alt="image" src="https://github.com/user-attachments/assets/eb7910f8-7b03-429a-85af-dc175362fd01" />
+
 <img width="808" height="767" alt="image" src="https://github.com/user-attachments/assets/36de6a4e-59cd-4850-be28-6f14b91d092a" />
+
 <img width="617" height="557" alt="image" src="https://github.com/user-attachments/assets/cc8aceae-b5ab-4f50-b878-711eb9ea2398" />
 
 
