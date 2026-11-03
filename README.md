@@ -13,8 +13,7 @@ Email: andrew.manza.moya@gmail.com | Tel: 3318738424
 Ingeniero en energías y entusiasta de los datos. Con interés en mejorar la visualización y manejo de bases de datos. Actualmente aprendiendo Python avanzado, MySQL para avanzar hacia roles de analista de datos. Adaptable, responsable, manejo del estrés, extrovertido y colaborativo.
 
 ## Habilidades Técnicas
-Python (Pandas, Numpy, Matplotlib, Ploty, SciPy) | SQL (PostgreSQL ) | Matlab | 
-Power BI 
+Python (Pandas, Numpy, Matplotlib, Ploty, SciPy) | SQL (PostgreSQL ) | Matlab | Electrónica | Calidad de energía | Power BI | Tableau
 
 ## Proyectos
 
