@@ -1,14 +1,16 @@
-# AndresMoyaManzano
+#  Hola soy Andrés Moya Manzano
 Ingreniería en  Energía | Analista de datos
 Guadalajara, Jal., México 
 Email: andrew.manza.moya@gmail.com | Tel: 3318738424
+
+<img width="1400" height="820" alt="image" src="https://github.com/user-attachments/assets/802e1e09-39da-4fec-9346-a183ea46ff2f" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Rasoutio&color=green">
 <p/>
 
 ## Perfil Profesional
-Analista de datos con experiencia previa en ingeniería en energías. Con interés en mejorar la visualización y manejo de bases de datos. Actualmente aprendiendo Python avanzado, MySQL para avanzar hacia roles de analista de datos. Adaptable, responsable, manejo del estrés, extrovertido y colaborativo.
+Ingeniero en energías y entusiasta de los datos. Con interés en mejorar la visualización y manejo de bases de datos. Actualmente aprendiendo Python avanzado, MySQL para avanzar hacia roles de analista de datos. Adaptable, responsable, manejo del estrés, extrovertido y colaborativo.
 
 ## Habilidades Técnicas
 Python (Pandas, Numpy, Matplotlib, Ploty, SciPy) | SQL (PostgreSQL ) | Matlab | 
@@ -16,7 +18,7 @@ Power BI
 
 ## Proyectos
 
-### Proyecto 1: Visualización de comportaamiento de ventas de videojuegos
+### Proyecto 1: Visualización de comportamiento de ventas de videojuegos
 Durante mi aprendizaje de python durante el bootcamp de TripleTen nos fue otorgada una base de datos; en la cual se nos solicitó evaluar la calidad de los datos, limpiar, acomodar y establecer filtros para poder graficar el comportamiento de las ventas de los video juegos y las consolas.
 
 Durante este proycto se utilizaron las librerías de Pandas, Numpy, Matplotlib y Scipy.
