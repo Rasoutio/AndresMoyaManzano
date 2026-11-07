@@ -18,7 +18,7 @@ Python (Pandas, Numpy, Matplotlib, Ploty, SciPy) | SQL (PostgreSQL ) | Matlab | 
 ## Proyectos
 
 ### Proyecto 1: Visualización de comportamiento de ventas de videojuegos
-Durante mi aprendizaje de python durante el bootcamp de TripleTen nos fue otorgada una base de datos; en la cual se nos solicitó evaluar la calidad de los datos, limpiar, acomodar y establecer filtros para poder graficar el comportamiento de las ventas de los video juegos y las consolas.
+Durante mi proyecto de python durante el bootcamp de TripleTen nos fue otorgada una base de datos; en la cual se nos solicitó evaluar la calidad de los datos, limpiar, acomodar y establecer filtros para poder graficar el comportamiento de las ventas de los video juegos y las consolas; esto, con el fin de definir la dirección de las nuevas entregas en el 2017.
 
 Durante este proycto se utilizaron las librerías de Pandas, Numpy, Matplotlib y Scipy.
 + En este primer proceso se limpiaron todas las columnas del archivo esto fue una tarea muy vomplicada ya que en cada columna la interpretació de los espacios vacios era diferente.
@@ -28,7 +28,7 @@ Durante este proycto se utilizaron las librerías de Pandas, Numpy, Matplotlib y
 + Generamos graficas con todos los analisis para ver de manera grafica el comportamineto del mercado, se usarn gráfios de barras, caja, dispersión, lineas y tablas.
 + Se prubaron hipotesis de dos colas para verificar si las ventas eran directamente derivadas de titulo o de la consola, para eso se realiza prubas t student por instrucción pero tambien pudo haberse usado una prueba Z
 
-Como conclusión de este proyecto se pudo comprobar que el exito de las consolas en el mercado creciente y joven fué la cantidad de juegos que fueron lanzados destacando los generos como shooters, deportes y acción.
+Como conclusión de este proyecto se pudo comprobar que el éxito de las consolas en el mercado creciente y joven fue la cantidad de juegos que fueron lanzados destacando los géneros como shooters, deportes y acción, es por esto que la creación de nuevas franquicias o rescatar antiguas podría ser un gran impulso en las ventas.
 
 Esta es una pequeña galería de lo que se hizo en este proyecto.
 
@@ -41,7 +41,7 @@ Esta es una pequeña galería de lo que se hizo en este proyecto.
 <img width="953" height="538" alt="image" src="https://github.com/user-attachments/assets/9149de40-6dd9-4b95-92f5-3e0a93e2e1ef" />
 
 ### Proyecto 2: Automatización de documentos
-Con el conocimiento generado durante mi Bootcamp de Tripleten y la necesidad de mis labores que por fines de confidencialidad no podré mensionar, generé un scrip para limpiary organizar datos en formato CSV y con ellos generar tablas y gráficas; estas, son subidas a un documento word para que al final el usuario solo genere sus interpretaciónes.
+Con el conocimiento generado durante mi Bootcamp de Tripleten y la necesidad de mis labores que por fines de confidencialidad no podré mensionar, generé un scrip para limpiar y organizar datos en formato CSV y con ellos generar tablas y gráficas; estas, son subidas a un documento word para que al final el usuario solo genere sus interpretaciones.
 
 Este priyecto usa librerias como Pandas, Numpy, Matlibplot y Docx.
 + En la primera parte del código se baja baja el archivo y se convierte en un DatFrame e inicia la limpieza de las columnas que no contienen nada de datos.
@@ -49,7 +49,7 @@ Este priyecto usa librerias como Pandas, Numpy, Matlibplot y Docx.
 + Se realiza el analisis estadistico y lus gráficas correspondientes.
 + al final dejamos un espacio de "Conclusiones" para que el usuario final escriba lo que puede interpretar se los resultados.
 
-Como conclusión de este proyecto puedo rescatar que el tiempo de analisis y generación de reportes se redujo de 7 días a 2 días, siempre cuidando la veracidad de los datos, ya que al no esta usando excel e introducir las formulas de manera manual reducinos los errores; ademas, que al dejar de utilizar los macros rducimos el trabajo de IT ya que para poder usar estos macros se necesita autorización de manera periodica.
+Como conclusión de este proyecto puedo rescatar que el tiempo de análisis y generación de reportes, este se redujo de 7 días a 2 días, siempre cuidando la veracidad de los datos, ya que al no esta usando excel e introducir las formulas de manera manual reducimos los errores; además, que al dejar de utilizar los macros reducimos el trabajo de IT ya que para poder usar estos macros se necesita autorización de manera periódica, la definición de los 7 día se tiene definida por dirección técnica, y el tiempo principalmente es para la revisión de los datos y la autorización del uso de los macros.
 
 Adjunto una pequeña galeria del código, siempre tratando de no comprometer información sensible.
 
