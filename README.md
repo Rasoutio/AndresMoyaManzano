@@ -10,7 +10,7 @@ Email: andrew.manza.moya@gmail.com | Tel: 3318738424
 <p/>
 
 ## Perfil Profesional
-Ingeniero en energías y entusiasta de los datos. Con interés en mejorar la visualización y manejo de bases de datos. Actualmente aprendiendo Python avanzado, MySQL para avanzar hacia roles de analista de datos. Adaptable, responsable, manejo del estrés, extrovertido y colaborativo.
+Soy Analista de Datos e Ingeniero en Energía apasionado por resolver problemas operativos reales integrando ingeniería y analítica avanzada. Mi trayectoria comenzó en el sector eléctrico y la infraestructura crítica, y dio un salto clave cuando asumí la coordinación de prevención de daños en gas natural; ahí identifiqué cuellos de botella y utilicé Python, Excel y análisis geoespacial para optimizar la logística de obras y automatizar procesos, lo que más tarde reforcé con un diplomado en análisis de datos. Actualmente trabajo en operaciones y mantenimiento, donde mi valor diferencial es conectar ambos mundos: hablo el idioma de los equipos en campo y entiendo los sistemas físicos, pero también sé manejar bases de datos, código y estadística para eliminar trabajo manual y tomar decisiones inteligentes. Busco sumarme a proyectos que deseen conectar la operación técnica con la analítica de datos para impulsar la optimización energética y la transformación digital.
 
 ## Habilidades Técnicas
 Python (Pandas, Numpy, Matplotlib, Ploty, SciPy) | SQL (PostgreSQL ) | Matlab | Electrónica | Calidad de energía | Power BI | Tableau
